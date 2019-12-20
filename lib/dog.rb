@@ -4,3 +4,4 @@ def dog_list
   snoopy = Dog.new
   lassie = Dog.new
 end
+end
