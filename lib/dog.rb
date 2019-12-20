@@ -1,1 +1,3 @@
-class 
+class Dog
+  fido
+end
